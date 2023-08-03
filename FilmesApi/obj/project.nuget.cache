@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ji1aCXXPWYC5/iGDLf6+lMoqNNIgYVUAGEhen1iZFYpL7csKATPLCT2Bx1XSi5yUqReYAIZ3K+vo55jRjtsLCQ==",
+  "dgSpecHash": "AzqyNq8/WEDGKNpNbiX9oVMyone9GwaF6Xx/+fMRnylhhrIbVjb2zZjsrqQUvdQ63Ozp6V3WP548YzJ1wQlCdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafae\\Desktop\\Projetos\\Alura Backend\\Api .NET\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
+  "projectFilePath": "C:\\Users\\rafae\\Desktop\\Projetos\\Alura Backend\\Api .NET\\FilmesApi_dotnet\\FilmesApi\\FilmesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafae\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
